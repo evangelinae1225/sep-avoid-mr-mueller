@@ -12,4 +12,5 @@ Click [here](https://docs.google.com/drawings/d/1H1UWlWcV8PRx1tGZ1TyWarVawSv8ETw
 --- 
 
 Made by [**Evangelina Ermakova**](https://github.com/evangelinae1225) and [**Angelina Zheng**](https://github.com/angelinaz6575)  
->>>>>>> 9f22a6f7f683b78b226e898354b9d2ee7aaa4edc
+
+
