@@ -1,5 +1,5 @@
 body {
- background-image: url("https://www.publicdomainpictures.net/pictures/510000/nahled/schultafel-tafel-hintergrund-textur.jpg");
+ background-image: url("https://upload.wikimedia.org/wikipedia/commons/f/f6/Whiteboard_with_markers.jpg");
  background-color: #cccccc;
  background-repeat: no-repeat;
  background-size: cover; 
@@ -8,7 +8,7 @@ body {
 }
 
 h1{
-    color:white;
+    color:black;
     text-align: center;
 }
 
@@ -18,7 +18,7 @@ h2 {
 }
 
 p{ 
-    color: white;
+    color: black;
     text-align: center;
 }
 a:hover {
