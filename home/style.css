@@ -19,7 +19,10 @@ h2 {
 
 p{ 
     color: black;
-    text-align: center;
+    width:80%;
+    text-align:center;
+    margin: auto;
+
 }
 a:hover {
   color: red; 
